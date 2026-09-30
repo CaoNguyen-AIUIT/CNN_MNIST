@@ -1,0 +1,13 @@
+# Downloaded dataset and trained checkpoints
+data/
+model/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local tooling
+.vscode/
+.idea/
